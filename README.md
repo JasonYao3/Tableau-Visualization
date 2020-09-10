@@ -1,4 +1,7 @@
 # Tableau-Visualization
 Repo for tableau visualization
 
-<img src="https://github.com/JasonYao3/120-years-of-Olympic-history/blob/master/Pictures/Olympic%20ER%20Diagram.png" width="800" height="700">
+
+WOW| W36 
+Tableau Public Link: https://public.tableau.com/profile/jason.yao#!/vizhome/wow2020w36/Dashboard1?publish=yes
+<img src="https://github.com/JasonYao3/Tableau-Visualization/blob/master/WOW%20W36.png">
