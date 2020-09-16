@@ -1,4 +1,4 @@
-### [Can you build a dynamic date drilling chart?](https://github.com/JasonYao3/Tableau-Visualization/tree/master/Workout_Wednesday/Week%2019)
+## [Can you build a dynamic date drilling chart?](https://github.com/JasonYao3/Tableau-Visualization/tree/master/Workout_Wednesday/Week%2019)
 <img src= "https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2019/WOW%20Week19.gif" width="500">
 
 [Source](http://www.workout-wednesday.com/2020w19/)
