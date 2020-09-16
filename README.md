@@ -2,9 +2,11 @@
 Repo for tableau visualization
 
 ## [Workout Wednesday](http://www.workout-wednesday.com)
->Workout Wednesday is a weekly challenge to re-create a data-driven visualization. The challenges are designed to grow participants knowledge of Tableau and help kick-start >personal development. Each Wednesday a challenge is release and participants are asked to replicate the challenge that is posed as closely as possible
+>Workout Wednesday is a weekly challenge to re-create a data-driven visualization. The challenges are designed to grow participants knowledge of Tableau and help kick-start >personal development. Each Wednesday a challenge is release and participants are asked to replicate the challenge that is posed as closely as possible/
 
-Wo
+## Example of my work
+
+## Can you build a dynamic date drilling chart?
 <img src="https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2019/WOW%20Week19.gif" width="400" height="790">
 
 WOW | W36 
