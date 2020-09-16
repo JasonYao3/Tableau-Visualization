@@ -1,9 +1,8 @@
 # Tableau-Visualization
 Repo for tableau visualization
 
-[Workout Wednesday](http://www.workout-wednesday.com)
-http://github.com - automatic!
-[GitHub](http://github.com)
+## [Workout Wednesday](http://www.workout-wednesday.com)
+
 
 Wo
 <img src="https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2019/WOW%20Week19.gif" width="400" height="790">
