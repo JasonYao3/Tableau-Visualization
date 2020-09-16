@@ -15,4 +15,4 @@ Tableau Public Link: https://public.tableau.com/profile/jason.yao#!/vizhome/wow2
 
 <img src = "https://media3.giphy.com/media/h1QmENgSmK0lWxjXY6/giphy.gif" width = "500"> 
 
-Credit to [darwin-a]](https://github.com/darwin-a) for this amazing readme template.
+Credit to [darwin-a](https://github.com/darwin-a) for this amazing readme template.
