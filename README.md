@@ -9,12 +9,8 @@ Repo for tableau visualization
 ### [Build a dynamic date drilling chart](https://github.com/JasonYao3/Tableau-Visualization/tree/master/Workout_Wednesday/Week%2019)
 <img src= "https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2019/WOW%20Week19.gif" width="500">
 
-### [Find all counties within n miles of a selected county?](https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2036/WOW%20Week36.gif)
+### [Find all counties within n miles of a selected county](https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2036/WOW%20Week36.gif)
 <img src= "https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2036/WOW%20Week36.gif" width="500">
 
 
-WOW | W36 
-Tableau Public Link: https://public.tableau.com/profile/jason.yao#!/vizhome/wow2020w36/Dashboard1?publish=yes
-<img src="https://github.com/JasonYao3/Tableau-Visualization/blob/master/WOW/WOW%20W36.png" >
-
-<img src = "https://media3.giphy.com/media/h1QmENgSmK0lWxjXY6/giphy.gif" width = "500"> 
+Credit goes to [Darwin](https://github.com/darwin-a) for this readme template
