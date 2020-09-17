@@ -16,6 +16,6 @@
 | Contact Method |  |
 | --- | --- |
 | Email | jason.jy@gmail.com |
-| LinkedIn | linkedin.com/in/jasonyao-jy |
+| LinkedIn | linkedin.com/in/jasonyao-jy/ |
 
 Credit goes to [Darwin](https://github.com/darwin-a) for this readme template
