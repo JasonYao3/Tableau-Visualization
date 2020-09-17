@@ -7,4 +7,4 @@
 
 ### What I learned
 * How to make an interactive button using the dashboard action.
-* Created a dynamic drilling dashboard that changes based on how the user is interacting.
+* Created a dynamic drilling date and title that changes based on how users interact.
