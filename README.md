@@ -1,5 +1,15 @@
 # Tableau Visualizations
 
+<details><summary><strong>Visit My Other Projects!</strong></summary> 
+<br>
+
+1. Personal Projects
+    - Data Analysis
+      - [Olympic history](https://github.com/JasonYao3/120-years-of-Olympic-history)
+      - [Goodreads book](https://github.com/JasonYao3/Goodreads_books)
+      
+</details>
+
 ## [Workout Wednesday](http://www.workout-wednesday.com)
 >Workout Wednesday is a weekly challenge to re-create a data-driven visualization. The challenges are designed to grow participants knowledge of Tableau and help kick-start >personal development. Each Wednesday a challenge is release and participants are asked to replicate the challenge that is posed as closely as possible/
 
@@ -16,6 +26,6 @@
 | Contact Method |  |
 | --- | --- |
 | Email | jason.jy@gmail.com |
-| LinkedIn | linkedin.com/in/jasonyao-jy/ |
+| LinkedIn | https://www.linkedin.com/in/jasonyao-jy/ |
 
 Credit goes to [Darwin](https://github.com/darwin-a) for this readme template
