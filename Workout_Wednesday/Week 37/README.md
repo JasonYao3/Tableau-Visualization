@@ -1,5 +1,5 @@
 
-### [Year Over Year Comparison](https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2037/week%2037.gif)
+### [Year Over Year Trend](https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2037/week%2037.gif)
 <img src= "https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2037/week%2037.gif" width="500">
 
 [Source](http://www.workout-wednesday.com/wow2020w37/)
