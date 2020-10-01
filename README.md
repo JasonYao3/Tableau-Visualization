@@ -21,6 +21,9 @@
 ### [Find all counties within n miles of a selected county](https://github.com/JasonYao3/Tableau-Visualization/tree/master/Workout_Wednesday/Week%2036)
 <img src= "https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2036/WOW%20Week36.gif" width="500">
 
+### [Year Over Year Trend](https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2037/week%2037.gif)
+<img src= "https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2037/week%2037.gif" width="500">
+
 ## Contact Me
 
 | Contact Method |  |
