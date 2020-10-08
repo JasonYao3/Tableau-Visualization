@@ -1,5 +1,5 @@
 
-### [Reference Line by Dimension(https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2041/week%2041.gif)
+### [Reference Line by Dimension](https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2041/week%2041.gif)
 <img src= "https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2041/week%2041.gif" width="500">
 
 [Source](http://www.workout-wednesday.com/2020w41/)
