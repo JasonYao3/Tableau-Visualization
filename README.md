@@ -15,6 +15,10 @@
 
 ## Example of my work
 
+
+### [Reference Line by Dimension(https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2041/week%2041.gif)
+<img src= "https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2041/week%2041.gif" width="500">
+
 ### [Build a dynamic date drilling chart](https://github.com/JasonYao3/Tableau-Visualization/tree/master/Workout_Wednesday/Week%2019)
 <img src= "https://github.com/JasonYao3/Tableau-Visualization/blob/master/Workout_Wednesday/Week%2019/WOW%20Week19.gif" width="500">
 
